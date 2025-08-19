@@ -1,7 +1,7 @@
 //Desafio Verificar senha!!
 
 
-class VerificadorDeSenha{
+class verificadorDeSenha{
     public static void main(String[] args) {
         
         boolean LetraMaiuscula = false;

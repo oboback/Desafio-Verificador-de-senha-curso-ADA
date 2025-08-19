@@ -17,12 +17,15 @@ A senha, para ser considerada válida, precisa atender a **TODOS** os seguintes 
 ## ⚙️ Como Executar
 
 1.Clone este repositório para a sua máquina.
+
 2.Compile o arquivo Java:
     ```bash
     javac VerificadorDeSenhaRegex.java
     ```
+
 3.Execute o programa passando a senha como um argumento na linha de comando:
     ```bash
     java VerificadorDeSenhaRegex SuaSenha@123!
     ```
+
 4. O programa retornará se a senha é válida ou inválida, listando os critérios não atendidos!
